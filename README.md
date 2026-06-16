@@ -62,10 +62,10 @@ Supported AI R&D collaboration through meeting preparation, meeting minutes, act
 
 ## 🎓 Background
 
-- **Data Scientist / Project Manager** at DDE
+- **Data Scientist / Project Manager** at Data Design Engineering, Seoul
 - **Data Analyst Intern** at Base, Vancouver
-- **M.S. in Information and Communication Engineering**, Soongsil University
-- **Post-Baccalaureate Diploma in Computer and Information Systems**, Douglas College
+- **Post-Baccalaureate Diploma in Computer and Information Systems**, Douglas College, Vancouver
+- **M.S. in Information and Communication Engineering**, Soongsil University, Seoul
 
 ## 📄 Publication
 
